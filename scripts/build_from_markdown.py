@@ -37,7 +37,9 @@ from xml.sax.saxutils import escape as xml_escape
 
 import frontmatter
 import markdown
-from bs4 import BeautifulSoup
+# NOTE: beautifulsoup4 (bs4) is imported lazily inside translate_html(), so it is
+# only required when actually translating. Deploy builds run with --no-translate
+# and need only markdown + python-frontmatter.
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import tribuilder as T
@@ -114,6 +116,7 @@ def gt(text: str):
 
 def translate_html(html_str: str):
     """Translate visible text inside an HTML fragment, preserving all tags."""
+    from bs4 import BeautifulSoup  # imported here so it's only needed when translating
     soup = BeautifulSoup(html_str, "html.parser")
     for node in list(soup.find_all(string=True)):
         if node.parent.name in ("code", "pre", "script", "style"):
