@@ -1,0 +1,41 @@
+/* _urdu.tmp — Urdu typography + RTL, injected after _style.tmp.
+   With logical properties in _style.tmp, setting the page to RTL makes the
+   fixed sidebar move to the right automatically. */
+
+[data-lang="ur"]{
+  font-family:var(--urdu);
+  direction:rtl;
+  text-align:right;
+  line-height:2.2;
+}
+
+/* whole page flips to RTL in Urdu mode (sidebar -> right, content -> left) */
+body.lang-ur{direction:rtl;}
+
+/* Urdu display type uses Nastaliq, with roomier leading */
+body.lang-ur .s-brand-title,
+body.lang-ur .lede-title,
+body.lang-ur .entry-title,
+body.lang-ur .doc-title,
+body.lang-ur .list-title,
+body.lang-ur .doc-body h2,
+body.lang-ur .doc-body h3{
+  font-family:var(--urdu);
+  font-weight:600;
+  line-height:1.95;
+}
+
+/* sidebar text aligns to the start edge (right in RTL) */
+body.lang-ur .s-nav a,
+body.lang-ur .s-heading,
+body.lang-ur .s-brand-tag,
+body.lang-ur .s-foot-note,
+body.lang-ur .s-foot-copy{text-align:right;}
+
+/* keep monospace metadata/dates left-to-right for legibility */
+body.lang-ur .entry-meta,
+body.lang-ur .doc-meta{direction:ltr;}
+body.lang-ur .doc-meta{justify-content:flex-end;}
+
+/* active-nav marker points the right way in RTL */
+body.lang-ur .s-nav a.active::before{content:"\00a0\00a0\2039";}
