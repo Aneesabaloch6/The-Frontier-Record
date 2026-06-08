@@ -1,0 +1,66 @@
+{# Base layout shared by every page. #}
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page_title }}</title>
+  <meta name="description" content="{{ (article.summary if article is defined else site.description) }}">
+
+  {# Open Graph / social cards #}
+  <meta property="og:type" content="{{ 'article' if article is defined else 'website' }}">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:description" content="{{ (article.summary if article is defined else site.description) }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="/feed.xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Spline+Sans+Mono:wght@400;500;600&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <div class="brand">
+        <a href="/" class="brand-link">
+          <span class="brand-title">{{ site.title }}</span>
+          <span class="brand-tag">{{ site.tagline }}</span>
+        </a>
+      </div>
+      <nav class="nav" aria-label="Primary">
+        <a href="/">Latest</a>
+        <a href="/archive.html">Archive</a>
+        {% for t in topics.keys() %}
+        <a href="/topics/{{ t | topic_slug }}.html">{{ t }}</a>
+        {% endfor %}
+        {% for p in nav_pages %}
+        <a href="/{{ p.url }}">{{ p.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="wrap">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div>
+        <p class="footer-title">{{ site.title }}</p>
+        <p class="footer-note">{{ site.footer_note }}</p>
+      </div>
+      <div class="footer-links">
+        <a href="/feed.xml">RSS</a>
+        <a href="/archive.html">Archive</a>
+        {% for p in nav_pages %}<a href="/{{ p.url }}">{{ p.title }}</a>{% endfor %}
+      </div>
+      <p class="footer-copy">&copy; {{ year }} {{ site.title }}</p>
+    </div>
+  </footer>
+</body>
+</html>

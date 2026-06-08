@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<article class="special-doc">
+  <header class="doc-head">
+    <span class="kicker">Special documentation</span>
+    <h1 class="doc-title">{{ special.title }}</h1>
+  </header>
+  <div class="special-canvas">
+    {{ special.body | safe }}
+  </div>
+</article>
+{% endblock %}
