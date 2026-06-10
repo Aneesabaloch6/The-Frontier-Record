@@ -6,10 +6,6 @@ author: Amnesty International
 location: Pakistan-administered Jammu and Kashmir
 topics: [Jammu and Kashmir, JKJAAC, Human Rights, Protest Crackdown, Freedom of Association]
 summary: "Amnesty International condemns the proscription of JKJAAC and reports a severe escalation in state actions including internet shutdowns, arrests, use of force, and restrictions on movement in Pakistan-administered Jammu and Kashmir."
-* title: "Amnesty International Statement on Jammu and Kashmir Crackdown"
-  url: "https://www.amnesty.org"
----
-
 Amnesty International has described the recent crackdown on protests in Pakistan-administered Jammu and Kashmir as a serious escalation in human rights concerns, following the designation of the Jammu and Kashmir Joint Awami Action Committee (JKJAAC) as a “proscribed organization” under anti-terror laws.
 
 The organization said the authorities’ actions—including internet and mobile shutdowns, mass arrests, raids on organizational offices, and reported use of lethal force—amount to an alarming deterioration of civil liberties in the region. It noted that JKJAAC is a grassroots movement advocating for economic and political rights.
