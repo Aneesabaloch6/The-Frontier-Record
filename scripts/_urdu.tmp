@@ -1,0 +1,30 @@
+/* _urdu.tmp — Urdu typography + RTL for the news-portal layout. */
+
+[data-lang="ur"]{font-family:var(--urdu);direction:rtl;text-align:right;line-height:2.2;}
+
+/* whole page flips to RTL in Urdu mode */
+body.lang-ur{direction:rtl;}
+
+/* Nastaliq for display type */
+body.lang-ur .brand-name,
+body.lang-ur .lede-title,
+body.lang-ur .entry-title,
+body.lang-ur .doc-title,
+body.lang-ur .list-title,
+body.lang-ur .doc-body h2,
+body.lang-ur .doc-body h3{font-family:var(--urdu);font-weight:600;line-height:1.95;}
+
+/* keep monospace metadata / dates / breadcrumb left-to-right */
+body.lang-ur .entry-meta,
+body.lang-ur .doc-meta,
+body.lang-ur .crumb-inner,
+body.lang-ur .topbar-label{direction:ltr;}
+body.lang-ur .doc-meta{justify-content:flex-end;}
+
+/* brand words align to start edge (right in RTL) */
+body.lang-ur .brand-words{text-align:right;}
+
+/* trending strip + crumb read right-to-left */
+body.lang-ur .topbar-inner,
+body.lang-ur .crumb-inner{direction:rtl;}
+body.lang-ur .topbar-label{clip-path:polygon(12px 0,100% 0,100% 100%,0 100%);}
