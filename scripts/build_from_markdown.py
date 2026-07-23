@@ -64,7 +64,7 @@ SITE = {
     "description_ur": ("\u0627\u06cc\u06a9 \u0622\u0632\u0627\u062f \u062f\u0633\u062a\u0627\u0648\u06cc\u0632\u06cc \u0645\u0646\u0635\u0648\u0628\u06c1 \u062c\u0648 \u062c\u0628\u0631\u06cc "
                        "\u06af\u0645\u0634\u062f\u06af\u06cc\u0648\u06ba\u060c \u0646\u0642\u0644 \u0645\u06a9\u0627\u0646\u06cc\u060c \u0627\u0648\u0631 \u0646\u0633\u0644\u06cc \u0648 \u0645\u0630\u06c1\u0628\u06cc "
                        "\u0627\u0642\u0644\u06cc\u062a\u0648\u06ba \u06a9\u06d2 \u062e\u0644\u0627\u0641 \u062f\u0628\u0627\u0624 \u06a9\u0648 \u0631\u06cc\u06a9\u0627\u0631\u0688 \u06a9\u0631\u062a\u0627 \u06c1\u06d2\u06d4"),
-    "base_url": "https://example.pages.dev",
+    "base_url": "https://thefrontierrecord.org",
     "author": "Editorial Desk",
     "footer_note": "Sourced documentation. Reproduce with attribution.",
     "brand_sub": "Human Rights Documentation",
