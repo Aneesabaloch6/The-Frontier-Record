@@ -57,10 +57,6 @@ Casualty figures diverge sharply depending on the source — a gap the JAAC attr
 | Amnesty International | at least 40 (34 protesters, 6 police or paramilitary) | to late July |
 | JAAC (protest movement) | 30+ in late July alone; higher overall | July |
 
-## The state's framing — and India
-
-Senior officials have cast the movement as a security threat rather than a civic one. Pakistan's defence minister called the protesters enemies of the state and ruled out negotiations; the information ministry alleged the involvement of militant elements pursuing a foreign agenda with Indian backing — a charge India rejected. Independent analysts warned that the violence would overshadow the legitimacy of the elections themselves.
-
 ## Calls for accountability
 
 The response from human rights bodies has been unusually direct. The UN High Commissioner for Human Rights, Volker Türk, called for prompt, impartial investigations into the deaths and voiced alarm that anti-terrorism powers were being used to criminalise peaceful assembly and justify sweeping internet shutdowns. Amnesty International urged authorities to lift the communications blackout and investigate the use of lethal force. The Human Rights Commission of Pakistan (HRCP) said it was deeply alarmed and demanded an independent inquiry into the Rawalakot deaths.
