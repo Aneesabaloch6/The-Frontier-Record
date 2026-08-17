@@ -6,4 +6,4 @@
 2026-08-17 | Checkpoints, Clashes With Pakistani Forces in Kech, Basima, Sorab; Female Fighters Seen During Blockade 
 2026-08-17 | Heavy Clashes in Sorab as Pakistani Forces' Camp Attacked From Three Sides; Casualties Reported
 2026-08-17 | Former #Afghan local commander from Kandahar, Haji Werwer Achakzai, has reportedly been shot dead in #Quetta
-  
+
