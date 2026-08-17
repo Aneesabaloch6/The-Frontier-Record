@@ -5,19 +5,7 @@ author: Editorial Desk
 location: Jaranwala, Punjab, Pakistan
 topics: [Religious Minorities, Pakistan]
 summary: "On the third anniversary of the Jaranwala church burnings, a look at what happened in 2023 — and at how the machinery of blasphemy accusations has since moved online and been industrialised into an extortion racket, even as prosecutions for past mob violence stall."
-sources:
-  - title: "Human Rights Watch — Exploiting Pakistan's Blasphemy Laws for Blackmail and Profit (2025)"
-    url: "https://www.hrw.org/report/2025/06/09/conspiracy-grab-land/exploiting-pakistans-blasphemy-laws-blackmail-and-profit"
-  - title: "Al Jazeera — Mobs burn Christian churches in Jaranwala (Aug 2023)"
-    url: "https://www.aljazeera.com/news/2023/8/16/angry-mobs-burn-christian-churches-in-pakistan-after-blasphemy-allegations"
-  - title: "Gulf News / AP — Jaranwala attacks set off by false implication, police say"
-    url: "https://gulfnews.com/world/asia/pakistan/mob-attacks-on-churches-and-homes-in-pakistan-set-off-by-false-implication-police-say-1.97907825"
-  - title: "Church in Chains — High Court orders inquiry into blasphemy entrapment group"
-    url: "https://www.churchinchains.ie/news-by-country/south-asia/pakistan/pakistan-high-court-orders-inquiry-into-blasphemy-entrapment-group/"
-  - title: "Pakistan Today — Sargodha mob attack over blasphemy accusation (May 2024)"
-    url: "https://www.pakistantoday.com.pk/2024/05/25/mob-rampages-in-sargodha-as-christian-man-is-accused-of-blasphemy/"
-  - title: "Religion Unplugged / CSJ — Online blasphemy scams destroying lives"
-    url: "https://religionunplugged.com/news/blasphemy-scam-is-destroying-lives-across-pakistan"
+
 ---
 
 Three years ago, on 16 August 2023, thousands of men swept through the Christian neighbourhoods of Jaranwala, in Pakistan's Faisalabad district, burning churches and looting homes after two local Christians were falsely accused of desecrating the Quran. No one was killed, but the day left a lasting mark: it was one of the most destructive assaults on a religious minority in Pakistan's recent history, and three years on, almost no one has been held to account. The anniversary is a moment to look at both what happened — and at how the machinery behind such violence has since shifted.
