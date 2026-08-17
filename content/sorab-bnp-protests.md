@@ -5,13 +5,7 @@ author: Editorial Desk
 location: Sorab & Quetta, Balochistan
 topics: [Balochistan, Military Operations]
 summary: "The Balochistan National Party (BNP) held protests in Quetta and across Balochistan over an incident in Sorab district in which civilians, including women and children, were killed and at least 16 injured. The cause is disputed — nationalist parties allege an aerial attack, while the government blames a militant bomb-making accident. Police sealed off the Quetta Press Club."
-sources:
-  - title: "The Tribune / ANI — Protests erupt in Balochistan after reported airstrike in Surab"
-    url: "https://www.tribuneindia.com/news/world/protests-erupt-in-balochistan-after-reported-pakistani-airstrike-kills-over-people/"
-  - title: "ANI — Protests erupt in Balochistan after reported Pakistani airstrike"
-    url: "https://www.aninews.in/news/world/asia/protests-erupt-in-balochistan-after-reported-pakistani-airstrike-kills-over-people20260813142407/"
-  - title: "Republic World — Baloch leaders call for 'Black Day' after Surab airstrikes"
-    url: "https://www.republicworld.com/world-news/survival-lies-in-resistance-baloch-leaders-call-for-black-day-on-august-14-after-pakistani-airstrikes-in-surab-2026-08-14-134689"
+
 ---
 
 Protests spread across Balochistan under the banner of the Balochistan National Party (BNP) over an incident in the Sorab (Surab) district in which people, including women and children, were killed and at least 16 wounded. Demonstrations were held in Quetta and several other areas, with authorities blocking the routes leading to the Quetta Press Club.
