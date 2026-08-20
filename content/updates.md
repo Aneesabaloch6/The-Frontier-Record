@@ -5,5 +5,5 @@
 2026-08-03 | Death toll mounts in Pakistan-administered Kashmir crackdown | پاکستان کے زیرِ انتظام کشمیر میں کریک ڈاؤن، ہلاکتیں بڑھنے لگیں | /articles/pak-administered-kashmir-crackdown.html
 2026-08-17 | Checkpoints, Clashes With Pakistani Forces in Kech, Basima, Sorab; Female Fighters Seen During Blockade 
 2026-08-17 | Heavy Clashes in Sorab as Pakistani Forces' Camp Attacked From Three Sides; Casualties Reported
-2026-08-20 | 2026-08-19 | Fazlur Rehman: state writ has collapsed in KP and Balochistan | فضل الرحمٰن: کے پی اور بلوچستان میں ریاست کی رٹ ختم | /articles/fazlur-rehman-state-writ.html
+2026-08-20 | Fazlur Rehman: state writ has collapsed in KP and Balochistan | فضل الرحمٰن: کے پی اور بلوچستان میں ریاست کی رٹ ختم | /articles/fazlur-rehman-state-writ.html
 
