@@ -8,11 +8,11 @@ summary: "A drone strike hit labourers working in an orchard at Geet, in the Khu
 
 ---
 
-A drone strike hit labourers working in an orchard at Geet, in the Khudkocha area of Mastung, Balochistan, killing four and wounding three — an attack that Zrumbesh and local rescue sources attributed to Pakistani forces.
+A drone strike hit labourers working in an orchard at Geet, in the Khudkocha area of Mastung, Balochistan, killing four and wounding three — an attack that local rescue sources attributed to Pakistani forces.
 
 ## The casualties
 
-According to rescue sources cited by Zrumbesh, the dead were identified as Gul Khan Mughairi, Imran Brohi, and Ubaidullah Brohi, residents of Haji Shahar. The three wounded were named as Ali Raza Mengal, Naseebullah Abro, and Khalid Hussain. All had been working as labourers in the orchard. The bodies of the dead and the injured were taken to Shaheed Nawab Ghous Bakhsh Raisani Hospital.
+According to rescue sources, the dead were identified as Gul Khan Mughairi, Imran Brohi, and Ubaidullah Brohi, residents of Haji Shahar. The three wounded were named as Ali Raza Mengal, Naseebullah Abro, and Khalid Hussain. All had been working as labourers in the orchard. The bodies of the dead and the injured were taken to Shaheed Nawab Ghous Bakhsh Raisani Hospital.
 
 ## A wider pattern of strikes
 
