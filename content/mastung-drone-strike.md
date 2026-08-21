@@ -5,13 +5,7 @@ author: Editorial Desk
 location: Mastung, Balochistan
 topics: [Balochistan, Military Operations, Extrajudicial Killings]
 summary: "A drone strike hit labourers working in an orchard at Geet, in the Khudkocha area of Mastung, killing four and wounding three, according to Zrumbesh and local rescue sources. The attack follows the Surab airstrike that killed civilians and triggered protests at home and abroad."
-sources:
-  - title: "Zrumbesh — Mastung: Pakistani drone attack kills 4 labourers, injures 3"
-    url: "https://english.zrumbesh.com/15119"
-  - title: "Zrumbesh — Baloch National Movement protest, London"
-    url: "https://english.zrumbesh.com/15076"
-  - title: "Zrumbesh — Baloch National Movement announcement, Busan"
-    url: "https://english.zrumbesh.com/15089"
+
 ---
 
 A drone strike hit labourers working in an orchard at Geet, in the Khudkocha area of Mastung, Balochistan, killing four and wounding three — an attack that Zrumbesh and local rescue sources attributed to Pakistani forces.
